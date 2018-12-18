@@ -2,6 +2,18 @@
   "name": "ICBM 152 Nonlinear Asymmetric v. 2009c atlas",
   "version": "1.0.0",
   "id": "MNI152NLin2009cAsym",
-  "authors": [],
-  "citation": []
+  "authors": ["Fonov V", "Evans AC", "Botteron K", "Almli CR", "McKinstry RC", "Collins DL"],
+  "citation": ["10.1016/j.neuroimage.2010.07.033", "10.1016/S1053-8119(09)70884-5"],
+  "res": {
+    "01": {
+      "shape": [193, 229, 193],
+      "origin": [-96.0, -132.0, -78.0],
+      "zooms": [1.0, 1.0, 1.0]
+    },
+    "02": {
+      "shape": [97, 115, 97],
+      "origin": [-96.5, -132.5, -78.5],
+      "zooms": [2.0, 2.0, 2.0]
+    }
+  }
 }
