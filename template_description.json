@@ -5,7 +5,8 @@
   "HowToAcknowledge": "The two first publications indexed by the ReferencesAndLinks field should be referenced when using this atlas",
   "Identifier": "MNI152NLin2009cAsym",
   "License": "See LICENSE file",
-  "Name": "ICBM 152 Nonlinear Asymmetric v. 2009c atlas",
+  "Name": "ICBM 152 Nonlinear Asymmetrical template version 2009c",
+  "RRID": "SCR_008796",
   "ReferencesAndLinks": [
     "https://doi.org/10.1016/j.neuroimage.2010.07.033",
     "https://doi.org/10.1016/S1053-8119(09)70884-5",
