@@ -1,0 +1,2 @@
+5b090303-8bb9-4689-b438-e4e3c2b9191a bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-MNI152NLin2009cAsym/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1583952432.214416s
+cd0583d3-c2ff-4c34-bcd4-dcda2ee2e3b9 chunk=500mb encryption=none name=box.com type=webdav url=https://dav.box.com/dav/TemplateFlow/tpl-MNI152NLin2009cAsym timestamp=1548210065.409678303s
