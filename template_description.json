@@ -1,5 +1,4 @@
 {
-  "Acknowledgements": "Curated and added to TemplateFlow by Ciric R, Markiewicz CJ, and Esteban O",
   "Authors": [
     "Fonov V",
     "Evans AC",
@@ -9,7 +8,11 @@
     "Collins DL"
   ],
   "BIDSVersion": "1.1.0",
-  "HowToAcknowledge": "Reference the following entries from the ReferencesAndLinks field: {1, 2}",
+  "Curators": [
+    "iric R",
+    "Markiewicz CJ",
+    "Esteban O"
+  ],
   "Identifier": "MNI152NLin2009cAsym",
   "License": "See LICENSE file",
   "Name": "ICBM 152 Nonlinear Asymmetrical template version 2009c",
