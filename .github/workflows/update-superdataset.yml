@@ -1,0 +1,46 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Update Super-Dataset
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/cache@v1
+      with:
+        path: /usr/share/miniconda
+        key: conda-dist-v1
+        restore-keys: |
+          conda-dist-
+    - name: Setup conda
+      uses: s-weigand/setup-conda@v1
+      with:
+        update-conda: false
+        python-version: 3.7
+        conda-channels: anaconda, conda-forge
+    - name: Install dependencies
+      run: |
+        conda config --set always_yes True
+        conda install git-annex datalad
+    - name: Pacify DataLad about git config
+      run: |
+        git config --global user.name "NiPreps Bot"
+        git config --global user.email "nipreps@gmail.com"
+    - uses: webfactory/ssh-agent@v0.2.0
+      with:
+        ssh-private-key: ${{ secrets.NIPREPS_BOT }}
+    - name: Install & update super-dataset
+      run: |
+        datalad install git@github.com:templateflow/templateflow.git
+        cd templateflow/
+        datalad install ${GITHUB_REPOSITORY##*/}
+        datalad update -r --merge .
+        datalad save -m "auto(${GITHUB_REPOSITORY##*/}): content update"
+        datalad publish
