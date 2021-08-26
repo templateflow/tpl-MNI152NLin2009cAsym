@@ -33,7 +33,7 @@ jobs:
       run: |
         git config --global user.name "NiPreps Bot"
         git config --global user.email "nipreps@gmail.com"
-    - uses: webfactory/ssh-agent@v0.2.0
+    - uses: webfactory/ssh-agent@v0.5.3
       with:
         ssh-private-key: ${{ secrets.NIPREPS_BOT }}
     - name: Install & update super-dataset
@@ -41,6 +41,6 @@ jobs:
         datalad install git@github.com:templateflow/templateflow.git
         cd templateflow/
         datalad install ${GITHUB_REPOSITORY##*/}
-        datalad update -r --merge .
+        datalad update -r --merge any .
         datalad save -m "auto(${GITHUB_REPOSITORY##*/}): content update"
-        datalad publish
+        datalad push --to origin
