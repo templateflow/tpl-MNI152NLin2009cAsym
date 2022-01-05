@@ -1,0 +1,9 @@
+
+1.0.1 2018-12-13
+
+  - Update file names to conform to BIDS derivatives standard
+  - Expand metadata to include author, citation, and resolution information
+
+1.0.0 2018-05-29
+
+  - Initial release

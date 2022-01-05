@@ -1,0 +1,14 @@
+
+name: Update Super-Dataset
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  update_superdataset:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Update TemplateFlow's superdataset"
+        uses: templateflow/actions-template@main
+        env:
+          SECRET_KEY: ${{ secrets.NIPREPS_BOT }}
