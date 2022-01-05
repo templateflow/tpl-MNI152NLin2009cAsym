@@ -1,0 +1,64 @@
+{
+  "Authors": [
+    "Fonov V",
+    "Evans AC",
+    "Botteron K",
+    "Almli CR",
+    "McKinstry RC",
+    "Collins DL"
+  ],
+  "BIDSVersion": "1.1.0",
+  "Curators": [
+    "Ciric R",
+    "Markiewicz CJ",
+    "Esteban O"
+  ],
+  "Identifier": "MNI152NLin2009cAsym",
+  "License": "See LICENSE file",
+  "Name": "ICBM 152 Nonlinear Asymmetrical template version 2009c",
+  "RRID": "SCR_008796",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2010.07.033",
+    "https://doi.org/10.1016/S1053-8119(09)70884-5",
+    "http://nist.mni.mcgill.ca/?p=904",
+    "https://doi.org/10.1007/3-540-48714-X_16"
+  ],
+  "Species": "Homo sapiens",
+  "TemplateFlowVersion": "1.0.0",
+  "res": {
+    "01": {
+      "origin": [
+        -96.0,
+        -132.0,
+        -78.0
+      ],
+      "shape": [
+        193,
+        229,
+        193
+      ],
+      "zooms": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "02": {
+      "origin": [
+        -96.5,
+        -132.5,
+        -78.5
+      ],
+      "shape": [
+        97,
+        115,
+        97
+      ],
+      "zooms": [
+        2.0,
+        2.0,
+        2.0
+      ]
+    }
+  }
+}

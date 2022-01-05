@@ -1,0 +1,118 @@
+index	name	xyz
+0	background	48, 57, 48
+1	Left Cerebral White Matter	35, 58, 48
+2	Right Cerebral White Matter	62, 59, 48
+3	Left Lateral Ventricle	42, 60, 46
+4	Right Lateral Ventricle	55, 60, 46
+5	Brain-Stem	48, 50, 22
+34	Left Thalamus	43, 56, 42
+35	Left Caudate	42, 71, 44
+36	Left Putamen	36, 66, 39
+37	Left Pallidum	38, 64, 38
+39	Left Hippocampus	36, 55, 32
+40	Left Amygdala	37, 64, 30
+41	Left Accumbens	43, 72, 35
+45	Right Thalamus	53, 57, 42
+46	Right Caudate	55, 71, 44
+47	Right Putamen	61, 67, 39
+48	Right Pallidum	58, 64, 38
+49	Right Hippocampus	61, 56, 32
+50	Right Amygdala	60, 64, 30
+51	Right Accumbens	53, 72, 36
+101	Left Frontal Pole	35, 92, 43
+102	Right Frontal Pole	61, 92, 43
+103	Left Insular Cortex	30, 67, 39
+104	Right Insular Cortex	67, 67, 39
+105	Left Superior Frontal Gyrus	41, 76, 67
+106	Right Superior Frontal Gyrus	56, 75, 68
+107	Left Middle Frontal Gyrus	29, 75, 60
+108	Right Middle Frontal Gyrus	68, 75, 61
+109	Left Inferior Frontal Gyrus pars triangularis	23, 80, 43
+110	Right Inferior Frontal Gyrus pars triangularis	74, 80, 43
+111	Left Inferior Frontal Gyrus pars opercularis	22, 73, 47
+112	Right Inferior Frontal Gyrus pars opercularis	75, 74, 47
+113	Left Precentral Gyrus	31, 60, 64
+114	Right Precentral Gyrus	66, 61, 64
+115	Left Temporal Pole	28, 72, 24
+116	Right Temporal Pole	68, 73, 24
+117	Left Superior Temporal Gyrus anterior division	20, 64, 35
+118	Right Superior Temporal Gyrus anterior division	77, 65, 34
+119	Left Superior Temporal Gyrus posterior division	17, 52, 41
+120	Right Superior Temporal Gyrus posterior division	79, 54, 40
+121	Left Middle temporal Gyrus anterior division	19, 64, 28
+122	Right Middle temporal Gyrus anterior division	77, 65, 27
+123	Left Middle temporal Gyrus posterior division	17, 52, 33
+124	Right Middle temporal Gyrus posterior division	79, 55, 33
+125	Left Middle Temporal Gyrus temporooccipital part	19, 39, 39
+126	Right Middle Temporal Gyrus temporooccipital part	78, 41, 40
+127	Left Inferior Temporal Gyrus anterior division	24, 63, 19
+128	Right Inferior Temporal Gyrus anterior division	71, 65, 18
+129	Left Inferior Temporal Gyrus posterior division	21, 52, 25
+130	Right Inferior Temporal Gyrus posterior division	75, 54, 24
+131	Left Inferior Temporal Gyrus temporooccipital part	22, 39, 30
+132	Right Inferior Temporal Gyrus temporooccipital part	75, 41, 30
+133	Left Postcentral Gyrus	29, 52, 65
+134	Right Postcentral Gyrus	67, 53, 66
+135	Left Superior Parietal Lobule	33, 41, 68
+136	Right Superior Parietal Lobule	63, 42, 69
+137	Left Supramarginal Gyrus anterior division	19, 50, 58
+138	Right Supramarginal Gyrus anterior division	78, 52, 58
+139	Left Supramarginal Gyrus posterior division	20, 43, 56
+140	Right Supramarginal Gyrus posterior division	76, 46, 56
+141	Left Angular Gyrus	23, 38, 54
+142	Right Angylar Gyrus	75, 40, 56
+143	Left Lateral Occipital Cortex superior division	32, 29, 59
+144	Right Lateral Occipital Cortext superior division	65, 30, 59
+145	Left Lateral Occipital Cortex inferior division	25, 28, 38
+146	Right Lateral Occipital Cortext inferior division	71, 29, 38
+147	Left Intracalcarine Cortex	44, 29, 43
+148	Right Intracalcarine Cortex	53, 29, 43
+149	Left Frontal Medial Cortex	46, 88, 30
+150	Right Frontal Medial Cortex	50, 88, 29
+151	Left Juxtapositional Lobule Cortex formerly Supplmentary Motor Cortex	46, 65, 68
+152	Right Juxtapositional Lobule Cortex formerly Supplmentary Motor Cortex	51, 65, 68
+153	Left Subcalosal Cortex	46, 75, 32
+154	Right Subcallosal Cortex	50, 76, 31
+155	Left Paracingulate Gyrus	45, 84, 50
+156	Right Paracingulate Gyrus	51, 84, 50
+157	Left Cingulate Gyrus anterior division	46, 75, 51
+158	Right Cingulate Gyrus anterior division	51, 76, 51
+159	Left Cingulate Gyrus posterior division	46, 47, 54
+160	Right Cingulate Gyrus posterior division	51, 48, 54
+161	Left Precuneous Cortex	45, 36, 58
+162	Right Precuneous Cortex	52, 37, 59
+163	Left Cuneal Cortex	45, 26, 53
+164	Right Cuneal Cortex	52, 27, 53
+165	Left Frontal Orbital Cortex	33, 77, 30
+166	Right Frontal Orbital Cortex	63, 77, 31
+167	Left Parahippocampal Gyrus anterior division	37, 62, 24
+168	Right Parahippocampal Gyrus anterior division	59, 62, 24
+169	Left Parahippocampal Gyrus posterior division	37, 50, 31
+170	Right Parahippocampal Gyrus posterior division	59, 51, 30
+171	Left Lingual Gyrus	43, 33, 36
+172	Right Lingual Gyrus	55, 34, 36
+173	Left Temporal Fusiform Cortex anterior division	32, 64, 18
+174	Right Temporal Fusiform Cortex anterior division	63, 64, 17
+175	Left Temporal Fusiform Cortex posterior division	30, 52, 26
+176	Right Temporal Fusiform Cortex posterior division	66, 54, 25
+177	Left Temporal Occipital Fusiform Cortex	31, 39, 31
+178	Right Temporal Occipital Fusiform Cortex	66, 41, 30
+179	Left Occipital Fusiform Gyrus	35, 27, 31
+180	Right Occipital Fusiform Gyrus	61, 28, 32
+181	Left Frontal Operculum Cortex	28, 75, 41
+182	Right Frontal Operculum Cortex	69, 75, 41
+183	Left Central Opercular Cortex	24, 62, 45
+184	Right Central Opercular Cortex	73, 63, 44
+185	Left Parietal Operculum Cortex	23, 50, 49
+186	Right Parietal Operculum Cortex	73, 52, 50
+187	Left Planum Polare	24, 63, 36
+188	Right Planum Polare	72, 65, 36
+189	Left Heschls Gyrus	25, 56, 43
+190	Right Heschls Gyrus	71, 58, 43
+191	Left Planum Temporale	21, 52, 44
+192	Right Planum Temporale	76, 54, 45
+193	Left Supracalcarine Cortex	45, 28, 46
+194	Right Supracalcarine Cortex	52, 29, 46
+195	Left Occipital Pole	40, 18, 42
+196	Right Occipital Pole	57, 18, 43
+255	Cerebellum and Midbrain	48, 36, 21
