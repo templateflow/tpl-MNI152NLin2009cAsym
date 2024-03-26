@@ -1,0 +1,15 @@
+index	name	color
+1	thal-lh-pulvinar	#ff0000
+2	thal-lh-ventral-anterior	#00ff00
+3	thal-lh-mediodorsal	#ffff00
+4	thal-lh-lateral-posterior-ventral-posterior-group	#ff7b00
+5	thal-lh-pulvinar-medial-centrolateral-group	#00ffff
+6	thal-lh-ventrolateral	#ff00ff
+7	thal-lh-ventral-posterior-ventrolateral-group	#0000ff
+8	thal-rh-pulvinar	#ff0000
+9	thal-rh-ventral-anterior	#00ff00
+10	thal-rh-mediodorsal	#ffff00
+11	thal-rh-lateral-posterior-ventral-posterior-group	#ff7b00
+12	thal-rh-pulvinar-medial-centrolateral-group	#00ffff
+13	thal-rh-ventrolateral	#ff00ff
+14	thal-rh-ventral-posterior-ventrolateral-group	#0000ff
