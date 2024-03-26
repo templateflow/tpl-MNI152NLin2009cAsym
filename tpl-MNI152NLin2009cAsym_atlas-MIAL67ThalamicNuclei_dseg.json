@@ -1,0 +1,29 @@
+{
+  "Authors":
+  [
+    "Najdenovska E",
+    "Alemán-Gómez Y",
+    "Battistella G",
+    "Descoteaux M",
+    "Hagmann P",
+    "Jacquemont S",
+    "Maeder P",
+    "Thiran JP",
+    "Fornari E",
+    "Bach Cuadra M"
+  ],
+  "Curators":
+  [
+    "Aleman-Gomez Y",
+    "Esteban O"
+  ],
+  "Identifier": "MIAL67ThalamicNuclei",
+  "License": "CC-BY-4",
+  "Name": "Probabilistic atlas of the thalamic nuclei",
+  "Description": "In-vivo probabilistic atlas of human thalamic nuclei based on diffusion weighted magnetic resonance imaging of 67 healthy controls",
+  "ReferencesAndLinks":
+  [
+    "https://doi.org/10.1038/sdata.2018.270",
+    "https://zenodo.org/doi/10.5281/zenodo.1241074"
+  ]
+}
