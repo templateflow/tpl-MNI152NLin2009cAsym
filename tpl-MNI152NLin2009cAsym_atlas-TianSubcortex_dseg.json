@@ -1,0 +1,20 @@
+{
+  "Authors": [
+    "Tian Y",
+    "Margulies DS",
+    "Breakspear M",
+    "Zalesky A"
+  ],
+  "Curators": [
+    "Hamati R"
+  ],
+  "Identifier": "TianSubcortex",
+  "License": "See LICENSE file",
+  "Name": "Melbourne Subcortex Atlas",
+  "Description": "A hierarchical MRI atlas of the human subcortex. The atlas is available in four scales (S1-S4), representing different levels of granularity. Scale 1 is the coarsest (16 regions) and Scale 4 is the finest (54 regions). The atlas delineates subdivisions of the striatum, thalamus, hippocampus, amygdala and globus pallidus based on functional connectivity gradients.",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/s41593-020-00711-6",
+    "https://github.com/yetianmed/subcortex"
+  ],
+  "Species": "Homo sapiens"
+}
